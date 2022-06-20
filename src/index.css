@@ -112,4 +112,5 @@ h3 {
   padding: 0.5rem 1.5rem;
   min-width: 50%;
   margin-top: 1rem;
+  cursor: pointer;
 }
